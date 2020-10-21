@@ -1,0 +1,32 @@
+body {
+  background-color: #0a1e55;
+  font: Normal 14px Montserrat;
+  text-align: center;
+}
+header {
+  color: black;
+}
+section{
+  color: black;
+  width: 400px;
+  background-color: white;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 0 3px white;
+  align-content: space-between;
+}
+#txtg {
+  font: bold 20px Montserrat;
+  padding-top: 30px;
+}
+#txtHora {
+  font: normal 20px Montserrat;
+}
+#img {
+  margin-bottom: 25px;
+}
+footer {
+  margin-top: px;
+  font: 600 16px Montserrat;
+}
